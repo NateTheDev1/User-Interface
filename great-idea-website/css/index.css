@@ -197,4 +197,42 @@ header {
 	height: 35px;
 	border: 1px solid black;
 	background: white;
+	color: black;
+}
+
+#content-top {
+	width: 100%;
+	margin-top: 30px;
+	display: flex;
+	margin-bottom: 3%;
+	justify-content: space-between;
+}
+
+.subheader {
+	font-size: 18px;
+}
+
+#content-top div {
+	width: 45%;
+}
+
+#content-top-top {
+}
+
+#content-top-bottom {
+}
+
+.middle-img {
+	width: 100%;
+}
+
+.content-bottom {
+	margin-top: 3%;
+	display: flex;
+	justify-content: space-between;
+	margin-bottom: 50px;
+}
+
+.content-bottom div {
+	width: 30%;
 }
