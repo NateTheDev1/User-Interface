@@ -216,11 +216,11 @@ header {
 	width: 45%;
 }
 
-#content-top-top {
+/* #content-top-top {
 }
 
 #content-top-bottom {
-}
+} */
 
 .middle-img {
 	width: 100%;
@@ -235,4 +235,26 @@ header {
 
 .content-bottom div {
 	width: 30%;
+}
+
+footer {
+	margin-bottom: 50px;
+	height: 200px;
+}
+
+footer div {
+	margin-bottom: 25px;
+}
+footer a {
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+.email-link {
+	margin-bottom: 30px;
+}
+
+footer p {
+	text-align: center;
 }
