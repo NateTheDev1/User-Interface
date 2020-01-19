@@ -135,6 +135,7 @@ table {
 
 html,
 body {
+	scroll-behavior: smooth;
 	height: 100%;
 	font-family: 'Titillium Web', sans-serif;
 }
@@ -168,11 +169,23 @@ header {
 	top: 0;
 }
 
+.logo {
+	margin-right: 5px;
+}
+
+.nav {
+	margin-left: 5px;
+}
+
 .nav-link {
 	color: white;
 	text-decoration: none;
 	margin-right: 65px;
 	justify-content: space-between;
+}
+
+.nav-link:hover {
+	color: black;
 }
 
 #call-to-action {
