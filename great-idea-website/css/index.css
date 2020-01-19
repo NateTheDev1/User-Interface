@@ -163,9 +163,8 @@ header {
 	align-items: center;
 	justify-content: space-between;
 	background: gray;
-}
-
-.nav {
+	position: sticky;
+	top: 0;
 }
 
 .nav-link {
