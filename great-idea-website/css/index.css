@@ -347,3 +347,79 @@ header {
 	height: 100%;
 	/* border: 2px solid red; */
 }
+
+#content-top {
+	margin-top: 25px;
+	height: 15%;
+	width: 100%;
+}
+
+#content-top-top {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+	float: left;
+}
+
+#content-top-bottom {
+	display: inline-block;
+	width: 50%;
+	height: 100%;
+}
+
+.middle-img {
+	width: 100%;
+}
+
+.content-bottom {
+	margin-top: 25px;
+	height: 15%;
+	width: 100%;
+}
+
+.subheader {
+	font-size: 18px;
+}
+
+.content-1 {
+	display: inline-block;
+	float: left;
+	width: 33.3%;
+}
+
+.content-2 {
+	display: inline-block;
+	margin: 0 auto;
+	width: 30%;
+	margin-left: 20px;
+	margin-right: 10px;
+}
+
+.content-3 {
+	display: inline-block;
+	float: right;
+	width: 33.3%;
+}
+
+footer {
+	margin-top: 25px;
+	margin-bottom: 50px;
+	height: 200px;
+}
+
+footer div {
+	margin-bottom: 25px;
+}
+footer a {
+	text-decoration: none;
+	color: black;
+	display: block;
+}
+
+.email-link {
+	margin-bottom: 30px;
+}
+
+footer p {
+	text-align: center;
+}
